@@ -13,10 +13,9 @@ Aspiring Data Science student with strong interest in Machine Learning, Deep Lea
 
 ---
 
-## 🔬 Research Interests
+## 🔬 Interests
 - Machine Learning and Deep Learning  
 - Computer Vision (OCR, Image Classification, Detection)  
-- Medical Image Analysis  
 - Data Analytics and Visualization  
 
 ---
